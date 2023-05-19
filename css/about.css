@@ -532,7 +532,7 @@ background: #f2f2f2;
     border-bottom: solid 2px #999;
 }
 .slick-prev:after {
-    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/long-arrow-prev.svg) no-repeat center;
+    background: url("//www.uplers.com/wp-content/themes/uplers/assets/css/../images/long-arrow-prev.svg") no-repeat center;
     background-size: 100% !important;
     transform: translateY(-50%);
     left: 0;
@@ -637,7 +637,7 @@ a {
     top: 30%;
 }
 .slick-next:after {
-    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/long-arrow-next.svg) no-repeat center;
+    background: url("//www.uplers.com/wp-content/themes/uplers/assets/css/../images/long-arrow-next.svg") no-repeat center;
     background-size: 100% !important;
     transform: translateY(-50%);
     right: 0;
@@ -775,7 +775,7 @@ a {
 .commonlisting .listbox .ratio-img img {
     transition: .5s all;
     backface-visibility: hidden;
-    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/noimg-500-x-500.jpg);
+    background: url("//www.uplers.com/wp-content/themes/uplers/assets/css/../images/noimg-500-x-500.jpg");
     background-size: 100%;
     background-position: center;
 }
@@ -1376,7 +1376,7 @@ width: 55%;
     .hero {
         width: 100%;
         height: 95vh;
-        background: url(../images/about/about-banner.jpg);
+        background: url("../images/about/about-banner.jpg");
         background-size: cover;
         position: right;
         background-position: right;
@@ -1411,7 +1411,7 @@ width: 55%;
     .hero {
         width: 100%;
         height: 100vh;
-        background: url(../images/about/about-banner.jpg);
+        background:url("../images/about/about-banner.jpg");
         background-size: cover;
         background-position: right;
         background-repeat: no-repeat;
@@ -1499,7 +1499,7 @@ width: 55%;
     .got-wrap .container .got-imgblk.second-line:after {
         position: absolute;
         content: "";
-        background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/about/line2.svg) no-repeat;
+        background: url("//www.uplers.com/wp-content/themes/uplers/assets/css/../images/about/line2.svg") no-repeat;
         display: block;
         top: 420px !important;
         left: 608px !important;
@@ -1596,7 +1596,7 @@ width: 55%;
         border-bottom: solid 2px #999;
     }
     .slick-prev:after {
-        background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/long-arrow-prev.svg) no-repeat center;
+        background: url("//www.uplers.com/wp-content/themes/uplers/assets/css/../images/long-arrow-prev.svg") no-repeat center;
         background-size: 100% !important;
         transform: translateY(-50%);
         left: 0;
